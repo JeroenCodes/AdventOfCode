@@ -1,0 +1,15 @@
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/bin/Debug/net7.0/Day1-2021
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/bin/Debug/net7.0/Day1-2021.deps.json
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/bin/Debug/net7.0/Day1-2021.runtimeconfig.json
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/bin/Debug/net7.0/Day1-2021.dll
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/bin/Debug/net7.0/Day1-2021.pdb
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/obj/Debug/net7.0/Day1-2021.csproj.AssemblyReference.cache
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/obj/Debug/net7.0/Day1-2021.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/obj/Debug/net7.0/Day1-2021.AssemblyInfoInputs.cache
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/obj/Debug/net7.0/Day1-2021.AssemblyInfo.cs
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/obj/Debug/net7.0/Day1-2021.csproj.CoreCompileInputs.cache
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/obj/Debug/net7.0/Day1-2021.dll
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/obj/Debug/net7.0/refint/Day1-2021.dll
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/obj/Debug/net7.0/Day1-2021.pdb
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/obj/Debug/net7.0/Day1-2021.genruntimeconfig.cache
+/Users/jbijl005/Projects/AdventOfCode/Day1-2021/obj/Debug/net7.0/ref/Day1-2021.dll
