@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{3BF1D591-0D45-4023-BF30-C0B2ED1C524B}|Default">
+﻿<Properties StartupConfiguration="{D1D6CDA2-A4D5-4847-8E3B-B2F8969B8D45}|Default">
   <MonoDevelop.Ide.ItemProperties.Day1-2022 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day5-2022 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Day2-2022 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.AdventOfCode PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Day1-2021 PreferredExecutionTarget="MonoDevelop.Default" />
