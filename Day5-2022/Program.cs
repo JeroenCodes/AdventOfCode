@@ -17,12 +17,9 @@ internal class Program
         var list_8 = new List<char> { 'N', 'C', 'S', 'L','T', 'Z', 'B', 'W' };
         var list_9 = new List<char> { 'L', 'S', 'G' };
 
-        Console.WriteLine(input[0]);
-
         foreach (string move in input)
         {
             if (move == "") break;
-            Console.WriteLine(move);
             var numbers = move.TrimStart('m', 'o', 'v', 'e', ' ');
             var moveNumber = int.Parse(Regex.Match(numbers, @"^\d+").ToString());
 
