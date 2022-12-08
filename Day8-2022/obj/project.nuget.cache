@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eEz8Kf7YxRyUArmF2KyFm+osAfxN+0CXjx1C/euRaIg227SGpSEGF9lWi6nuVrNm0nHbxH2J581EwrGD9QwW4g==",
+  "success": true,
+  "projectFilePath": "/Users/jbijl005/Projects/AdventOfCode/Day8-2022/Day8-2022.csproj",
+  "expectedPackageFiles": [
+    "/Users/jbijl005/.nuget/packages/morelinq/3.3.2/morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
