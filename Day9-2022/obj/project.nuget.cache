@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmIGCbXFpUtrDydDafteLQCbuOho8fudJHGiiXWxgbexy6ve5bUjrmfuJEnNZbfbTetbU1Amcc8xlopwDSIPsA==",
+  "success": true,
+  "projectFilePath": "/Users/jbijl005/Projects/AdventOfCode/Day9-2022/Day9-2022.csproj",
+  "expectedPackageFiles": [
+    "/Users/jbijl005/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/jbijl005/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/jbijl005/.nuget/packages/system.drawing.primitives/4.3.0/system.drawing.primitives.4.3.0.nupkg.sha512",
+    "/Users/jbijl005/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/jbijl005/.nuget/packages/system.runtime.extensions/4.3.0/system.runtime.extensions.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
