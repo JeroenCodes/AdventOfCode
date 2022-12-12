@@ -1,12 +1,30 @@
-﻿<Properties StartupConfiguration="{7247546D-3C0B-4B65-840A-FF013DBE399E}|Default">
-  <MonoDevelop.Ide.ItemProperties.AdventOfCode PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Day1-2021 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Day4-2022 PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{7ECFABBE-2735-40D4-B3C2-90ECC243DB15}|Default">
   <MonoDevelop.Ide.ItemProperties.Day6-2022 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Day8-2022 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jbijl005/Projects/AdventOfCode/Day1-2022/Program.cs" relfile="Day1-2022/Program.cs" line="31" column="1" />
+      <Breakpoint file="/Users/jbijl005/Projects/AdventOfCode/Day12-2022/Program.cs" relfile="Day12-2022/Program.cs" line="95" column="1" />
+      <Breakpoint file="/Users/jbijl005/Projects/AdventOfCode/Day12-2022/Program.cs" relfile="Day12-2022/Program.cs" line="85" column="1" />
+      <Breakpoint file="/Users/jbijl005/Projects/AdventOfCode/Day12-2022/Program.cs" relfile="Day12-2022/Program.cs" line="81" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Day7-2022 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day8-2022 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Day9-2022 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Day5-2022 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day4-2022 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Day11-2022 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day10-2022 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day2-2022 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day12-2022 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Day1-2022 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day1-2021 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Day3-2022 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Day6-2022/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.AdventOfCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day12-2022/Program.cs">
     <Files>
       <File FileName="Day1-2021/Program.cs" />
       <File FileName="Day1-2022/Program.cs" />
@@ -14,34 +32,30 @@
       <File FileName="Day3-2022/Program.cs" />
       <File FileName="Day4-2022/Program.cs" />
       <File FileName="Day5-2022/Program.cs" />
-      <File FileName="Day6-2022/Program.cs" Line="16" Column="6" />
+      <File FileName="Day6-2022/Program.cs" />
+      <File FileName="Day7-2022/Program.cs" />
+      <File FileName="Day8-2022/Program.cs" />
+      <File FileName="AdventOfCode/AdventOfCode.csproj" />
+      <File FileName="Day9-2022/Program.cs" />
+      <File FileName="Day10-2022/Program.cs" Line="5" Column="91" />
+      <File FileName="Day11-2022/Program.cs" Line="85" Column="18" />
+      <File FileName="Day12-2022/Program.cs" Line="83" Column="59" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AdventOfCode" expanded="True">
-            <Node name="AdventOfCode" expanded="True" />
+          <Node name="AdventOfCode" expanded="True" selected="True">
             <Node name="Day1-2021" expanded="True" />
-            <Node name="Day1-2022" expanded="True" />
-            <Node name="Day2-2022" expanded="True" />
-            <Node name="Day3-2022" expanded="True" />
-            <Node name="Day4-2022" expanded="True" />
-            <Node name="Day5-2022" expanded="True" />
-            <Node name="Day6-2022" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="Day10-2022" expanded="True" />
+            <Node name="Day11-2022" expanded="True" />
+            <Node name="Day12-2022" expanded="True" />
+            <Node name="Day6-2022" expanded="True" />
+            <Node name="Day7-2022" expanded="True" />
+            <Node name="Day8-2022" expanded="True" />
+            <Node name="Day9-2022" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Day2-2022 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Day7-2022 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Users/jbijl005/Projects/AdventOfCode/Day1-2022/Program.cs" relfile="Day1-2022/Program.cs" line="31" column="1" />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Day5-2022 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

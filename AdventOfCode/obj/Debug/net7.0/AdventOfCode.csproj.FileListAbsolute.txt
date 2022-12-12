@@ -3,11 +3,13 @@
 /Users/jbijl005/Projects/AdventOfCode/AdventOfCode/bin/Debug/net7.0/AdventOfCode.runtimeconfig.json
 /Users/jbijl005/Projects/AdventOfCode/AdventOfCode/bin/Debug/net7.0/AdventOfCode.dll
 /Users/jbijl005/Projects/AdventOfCode/AdventOfCode/bin/Debug/net7.0/AdventOfCode.pdb
+/Users/jbijl005/Projects/AdventOfCode/AdventOfCode/bin/Debug/net7.0/MoreLinq.dll
 /Users/jbijl005/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.csproj.AssemblyReference.cache
 /Users/jbijl005/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
 /Users/jbijl005/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.AssemblyInfoInputs.cache
 /Users/jbijl005/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.AssemblyInfo.cs
 /Users/jbijl005/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.csproj.CoreCompileInputs.cache
+/Users/jbijl005/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.csproj.CopyComplete
 /Users/jbijl005/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.dll
 /Users/jbijl005/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/refint/AdventOfCode.dll
 /Users/jbijl005/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.pdb

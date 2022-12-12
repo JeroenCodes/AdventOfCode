@@ -13,15 +13,15 @@ internal class Program
 
         private static void Main(string[] args)
         {
-            Part1(new Point(0, 0), new Point(0, 0));
-            static void Part1(Point startPointH, Point startPointT)
+            Part1();
+            static void Part1()
             {
 
-                //Point startPoint = new Point(0, 0);
-                List<Point> visited = new List<Point>() { startPointH };
+                Point startPoint = new Point(0, 0);
+                List<Point> visited = new List<Point>() { startPoint };
 
-                Point TPosition = startPointT;
-                Point HPosition = startPointH;
+                Point TPosition = startPoint;
+                Point HPosition = startPoint;
 
                 //move around
                 foreach (string command in input)
